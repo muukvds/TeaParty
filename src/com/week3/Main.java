@@ -56,11 +56,6 @@ public class Main {
         table.addGuest(guest4);
 
         table.printTeaParty();
-        table.printTeaParty();
-        table.printTeaParty();
-        table.printTeaParty();
-        table.printTeaParty();
-        table.printTeaParty();
 
     }
 }
